@@ -79,4 +79,5 @@ for(let i = 1; i<=10;i++){
     console.log(`${i} * ${chiffre} = ${i*chiffre}`)
 }
 
+// update pare extraordinaire
 
